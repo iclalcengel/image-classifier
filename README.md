@@ -6,7 +6,9 @@ sınıflandırabilen bir yapay zeka uygulaması geliştirilmiştir. Sistem,
 kullanıcı tarafından yüklenen görselleri ön işleme tabi tutarak
 belirlenen sınıflardan birine ait olup olmadığını tahmin etmektedir.
 
-<img width="209" height="340" alt="image" src="https://github.com/user-attachments/assets/c32fe44d-71a1-4ab9-9768-4272cd1a23df" />
+<img width="1920" height="1200" alt="Ekran görüntüsü 2025-12-31 020101" src="https://github.com/user-attachments/assets/e66f64e8-e224-4d23-8246-cbe423cb3469" />
+
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/e76f9b61-1dcb-4ef2-b62d-ed6b03156718" />
 
 
 ## Hedef
@@ -51,4 +53,5 @@ Model, sınırlı sayıda epoch ile eğitildiği için bazı sınıflandırma
 sonuçlarında hatalar gözlemlenebilmektedir. Ancak sistem, görüntü
 yükleme, ön işleme ve sınıflandırma fonksiyonlarını başarıyla yerine
 getirmektedir.
+
 
